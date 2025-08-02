@@ -68,7 +68,3 @@ For three different test images.
 | Image 1 | 7.2783 | 5.9711 |
 | Image 2 | 7.7249 | 5.9767 |
 | Image 3 | 7.4978 | 5.9640 |
-
-> ✅ SSIM increases with quality  
-> ✅ Entropy decreases after equalization and downsampling  
-> ✅ Linear prediction reduces redundancy in images

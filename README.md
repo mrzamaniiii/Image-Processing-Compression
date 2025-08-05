@@ -1,6 +1,6 @@
-# 📷 Image Quality Analysis
+# Image Quality Analysis
 
-This repository provides a comprehensive framework for **image preprocessing**, **compression**, and **quality evaluation**. The core focus is on:
+This repository provides a comprehensive framework for image preprocessing, compression, and quality evaluation. The core focus is on:
 
 - Entropy-based texture analysis
 - Histogram equalization
@@ -11,7 +11,7 @@ This repository provides a comprehensive framework for **image preprocessing**, 
 
 ---
 
-## 📁 Contents
+## Contents
 
 - `project3.ipynb`: Python-based notebook for image processing and metric evaluation.
 - `image_analysis.m`: MATLAB script that implements all image analysis stages step-by-step.
@@ -19,7 +19,7 @@ This repository provides a comprehensive framework for **image preprocessing**, 
 
 ---
 
-## 🧠 Key Techniques
+## Key Techniques
 
 - RGB to Grayscale conversion
 - Histogram Equalization

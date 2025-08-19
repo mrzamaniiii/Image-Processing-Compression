@@ -9,15 +9,11 @@ This repository provides a comprehensive framework for image preprocessing, comp
 - Downsampling and filtering
 - Quality evaluation using SSIM (Structural Similarity Index) and PSNR (Peak Signal-to-Noise Ratio)
 
----
-
 ## Contents
 
 - `project3.ipynb`: Python-based notebook for image processing and metric evaluation.
 - `image_analysis.m`: MATLAB script that implements all image analysis stages step-by-step.
 - Sample images (not included): `sunset_sparrow.jpg`, `sunset_sparrow.png`, `lakebuilding.bmp`.
-
----
 
 ## Key Techniques
 
@@ -27,4 +23,3 @@ This repository provides a comprehensive framework for image preprocessing, comp
 - Linear Prediction Coefficients (AR Modeling)
 - Downsampling via `imresize`
 - JPEG Compression with variable quality factors
-- Quality evaluation metrics: SSIM and PSNR
